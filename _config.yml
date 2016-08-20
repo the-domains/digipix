@@ -1,14 +1,29 @@
+name: DigiPix
+favicon: null
 layout_spectrum: 0.9922342
+typography_spectrum: 1
+title: www.appshare.com.au
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6410247
-  lightness: 0.6578257
-  brandStrength: 1
   brandColors:
     - '#17181D'
     - '#CECFCD'
     - '#FFFFFC'
     - '#A3212F'
     - '#FBCF92'
+  brandStrength: 1
+  lightness: 0.6578257
+  saturation: 0.6410247
   rhythmicContrast: 0.6498629
-typography_spectrum: 1
-name: DigiPix
+purpose: []
